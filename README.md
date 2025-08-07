@@ -95,4 +95,4 @@ The leadership team lacked a **centralized dashboard** to connect these metrics 
 
 ---
 
-> 📈 Explore this case study to understand how business intelligence can turn scattered data into smart, scalable decisions.
+>  Explore this case study to understand how business intelligence can turn scattered data into smart, scalable decisions.
